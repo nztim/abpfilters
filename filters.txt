@@ -1,0 +1,31 @@
+[Adblock Plus 2.0]
+
+geekzone.co.nz##.div-gpt-ad
+geekzone.co.nz##div[style="color: rgba(255,255,255,1); background-color: rgba(59,71,107,1); background-image: url(); background-position: center; background-size: auto; background-repeat: ;"]
+geekzone.co.nz##div[style="background-color:yellow;height:17px;text-align:center;padding:5px;font-size:150%;font-weight:bold"]
+geekzone.co.nz##div[style="background-color:orange;height:30px;text-align:center;display:flex;justify-content:center;align-items:center;padding:5px;font-size:125%;font-weight:bold"]
+geekzone.co.nz##div[style="background-color:yellow;height:20px;text-align:center;padding:5px;font-size:125%;font-weight:bold"]
+geekzone.co.nz##div[style="background-color:orange;height:40px;text-align:center;justify-content:center;align-items:center;padding:5px;font-size:125%;font-weight:bold"]
+geekzone.co.nz##div[style="background-color:orange;height:20px;text-align:center;justify-content:center;align-items:center;padding:5px;font-size:125%;font-weight:bold"]
+geekzone.co.nz##div[style="background-color:orange;height:20px;text-align:center;padding:5px;font-size:125%;font-weight:bold"]
+https://api.blockertools.net/*
+http://56fh8x.xyz/*
+*.freecycle.org##div[id="blocker_message"]
+*.knpuniversity.com##div[id="uvTab"]
+stuff.co.nz##.my-notes-discover
+theguardian.com##.js-adblock-sticky
+nzherald.co.nz###breaking-alert
+nzherald.co.nz##.pb-f-article-related-articles
+||functionalclam.com^$third-party
+mathwarehouse.com##a[href*="?affiliateid="]
+who.is###domainAvailabilityPowerBarProgress
+who.is###domainAvailabilityPowerBar
+@@||fastmailusercontent.com/proxy
+lifehacker.com##.recent-video
+justwatch.com##.jw-ad-block
+justwatch.com##.jw-ad-block__container__remove
+materializecss.com###carbonads
+lifehacker.com##.initialized.instream-permalink.instream-native-video--desktop.instream-native-video
+geekzone.co.nz###rrouter
+pbtech.co.nz###feedback-side
+twitter.com##.tweet.promoted-tweet
