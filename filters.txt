@@ -29,3 +29,4 @@ lifehacker.com##.initialized.instream-permalink.instream-native-video--desktop.i
 geekzone.co.nz###rrouter
 pbtech.co.nz###feedback-side
 twitter.com##.tweet.promoted-tweet
+reddit.com#?#div.promotedlink
