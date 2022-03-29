@@ -30,3 +30,11 @@ geekzone.co.nz###rrouter
 pbtech.co.nz###feedback-side
 twitter.com##.tweet.promoted-tweet
 reddit.com#?#div.promotedlink
+stackexchange.com##.js-consent-banner
+stackoverflow.com##.js-consent-banner
+superuser.com##.js-consent-banner
+serverfault.com##.js-consent-banner
+wordpress.stackexchange.com##.js-consent-banner
+askubuntu.com##.js-consent-banner
+webapps.stackexchange.com##.js-consent-banner
+unix.stackexchange.com##.js-consent-banner
