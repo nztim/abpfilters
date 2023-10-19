@@ -39,3 +39,4 @@ askubuntu.com##.js-consent-banner
 webapps.stackexchange.com##.js-consent-banner
 unix.stackexchange.com##.js-consent-banner
 accounts.google.com/gsi/$3p
+||xn--$doc,frame
