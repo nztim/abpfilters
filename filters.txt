@@ -40,3 +40,5 @@ webapps.stackexchange.com##.js-consent-banner
 unix.stackexchange.com##.js-consent-banner
 accounts.google.com/gsi/$3p
 ||xn--$doc,frame
+! Block "Sign in with Google" iframe in top right corner of websites
+||accounts.google.com/gsi/iframe
